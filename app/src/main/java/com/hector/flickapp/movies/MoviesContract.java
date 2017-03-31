@@ -1,9 +1,8 @@
-package com.hector.flick.movies;
+package com.hector.flickapp.movies;
 
-import com.hector.flick.BasePresenter;
-import com.hector.flick.BaseView;
-import com.hector.flick.MoviesFilterType;
-import com.hector.flick.movies.domain.model.Movie;
+import com.hector.flickapp.BasePresenter;
+import com.hector.flickapp.BaseView;
+import com.hector.flickapp.movies.domain.model.Movie;
 
 import java.util.List;
 

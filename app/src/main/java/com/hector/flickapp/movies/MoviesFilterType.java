@@ -1,4 +1,4 @@
-package com.hector.flick;
+package com.hector.flickapp.movies;
 
 /**
  * Created by hector on 3/28/17.

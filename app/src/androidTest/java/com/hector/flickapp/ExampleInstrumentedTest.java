@@ -1,4 +1,4 @@
-package com.hector.flick;
+package com.hector.flickapp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

@@ -1,4 +1,4 @@
-package com.hector.flick.movies.domain.model;
+package com.hector.flickapp.movies.domain.model;
 
 /**
  * Created by hector on 3/28/17.

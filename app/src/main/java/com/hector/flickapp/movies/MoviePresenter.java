@@ -1,7 +1,6 @@
-package com.hector.flick.movies;
+package com.hector.flickapp.movies;
 
-import com.hector.flick.MoviesFilterType;
-import com.hector.flick.movies.domain.model.Movie;
+import com.hector.flickapp.movies.domain.model.Movie;
 
 /**
  * Created by hector on 3/28/17.

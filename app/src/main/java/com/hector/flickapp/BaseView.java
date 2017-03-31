@@ -1,4 +1,4 @@
-package com.hector.flick;
+package com.hector.flickapp;
 
 public interface BaseView<T extends BasePresenter> {
 
